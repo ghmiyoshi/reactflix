@@ -9,12 +9,12 @@ function Menu() {
     return (
         <nav className="Menu">
             <a href="/">
-                <img className="Logo" src={Logo} alt="gabflix"/>
+                <img className="Logo" src={Logo} alt="kaflix"/>
             </a>
 
-            <Button as="a" className="ButtonLink" href="/">
+            {/*<Button as="a" className="ButtonLink" href="/">
                 Novo Vídeo
-            </Button>
+            </Button> */}
         </nav>
     );
 }
