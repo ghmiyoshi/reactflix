@@ -1,11 +1,11 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Psicologia",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Vídeos de psicologia",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
@@ -14,32 +14,32 @@
           "url": "https://www.youtube.com/watch?v=Uhssc08rIqg"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "tag: minha faculdade | faculdade de psicologia (mackenzie)",
+          "url": "https://www.youtube.com/watch?v=Hhp1mr6SOaY"
         },
         {
           "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "url": "https://www.youtube.com/watch?v=ESHZlHAMLfg"
         },
         {
           "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "url": "https://www.youtube.com/watch?v=IrOOeQdxRao"
         },
         {
           "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "url": "https://www.youtube.com/watch?v=wMF62f5hV9E"
         },
         {
           "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "url": "https://www.youtube.com/watch?v=mYPB08zUzyY"
         },
         {
           "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "url": "https://www.youtube.com/watch?v=MwN4grGQCO4"
         },
         {
           "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "url": "https://www.youtube.com/watch?v=trrsFGwr2Oc"
         }        
       ]
     },
