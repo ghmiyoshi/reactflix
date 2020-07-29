@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Olá! o vídeo de hoje é respondendo várias perguntas sobre a faculdade de psicologia na Mackenzie"}
+        videoDescription={"\"A mente humana é bastante complexa e, mesmo após anos de estudo, ainda não somos capazes de compreender todo o seu potencial. Filósofos, psicólogos e pensadores em geral já tentaram decifrar aquilo que se passa na cabeça das pessoas...\""}
       />
 
       <Carousel

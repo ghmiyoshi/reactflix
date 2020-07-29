@@ -2,16 +2,16 @@
   "categorias": [
     {
       "titulo": "Psicologia",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "link": "https://www.youtube.com/watch?v=IrOOeQdxRao",
+      "cor": "#bd1818",
       "link_extra": {
         "text": "Vídeos de psicologia",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "url": "https://www.youtube.com/watch?v=IrOOeQdxRao"
       },
       "videos": [
         {
-          "titulo": "PSICOLOGIA NA MACKENZIE | como passar na mackenzie, notas de corte, preconceito e mais",
-          "url": "https://www.youtube.com/watch?v=Uhssc08rIqg"
+          "titulo": "Study Vlog #01 - Estudando para prova prática + Neuroanatomia | Faculdade de psicologia ✰",
+          "url": "https://www.youtube.com/watch?v=IrOOeQdxRao"
         },
         {
           "titulo": "tag: minha faculdade | faculdade de psicologia (mackenzie)",
@@ -44,10 +44,10 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Clínica",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Desenvolvimento pessoal",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
@@ -74,10 +74,10 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Cognitiva",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Neurociência , filosofia e linguística",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
@@ -100,8 +100,12 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Desenvolvimento",
       "cor": "orange",
+      "link_extra": {
+        "text": "Desenvolvimento humano",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
       "videos": [
         {
           "titulo": "Interestellar",
@@ -122,10 +126,10 @@
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Evolucionária",
+      "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Comportamento humano",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
@@ -152,10 +156,10 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Saúde",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "Medicina comportamental",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
