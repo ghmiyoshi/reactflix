@@ -9,19 +9,19 @@ function Footer() {
   return (
     <FooterBase>
         <a href="https://www.facebook.com/kalliny.araujo.982">
-          <img class='fotimg'src={Facebook} alt="Logo Twitter" />
+          <img className='fotimg'src={Facebook} alt="Logo Twitter" />
         </a>
 
         <a href="https://www.instagram.com/kalliny.study/">
-          <img class='fotimg' src={Instagram} alt="Logo Steam" />
+          <img className='fotimg' src={Instagram} alt="Logo Instagram" />
         </a>
 
         <a href="https://www.youtube.com/channel/UCltMa4eJ3OxQDF4q5yt_PYQ">
-          <img class='twtimg' src={Youtube} alt="Logo Insta" />
+          <img className='twtimg' src={Youtube} alt="Logo YouTube" />
         </a>
 
         <a href="https://www.linkedin.com/in/kalliny-silva-369000182/">
-          <img class='fotimg' src={Linkedin} alt="Logo Insta" />
+          <img className='fotimg' src={Linkedin} alt="Logo Linkedin" />
         </a>
       <p>
       Kaflix · 2020 © Todos os direitos reservados. Developed by Hideki
