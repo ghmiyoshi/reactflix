@@ -1,6 +1,15 @@
-import styled from 'styled-components';
+import styled, { css } from 'styled-components';
 
-export const VideoCardContainer = styled.a`
+export const VideoCardWrapper = styled.div`
+  transition: all 0.5s;
+  &:hover,
+  &:focus {
+    transform: scale(1.5);
+    margin: 0 80px;
+  }
+`;
+
+export const VideoCardContainer = styled.div`
   border: 2px solid;
   border-radius: 4px;
   text-decoration: none;
@@ -18,14 +27,17 @@ export const VideoCardContainer = styled.a`
   display: flex;
   align-items: flex-end;
   padding: 16px;
-
-  transition: opacity .3s;
-  &:hover,
-  &:focus {
-    opacity: .5;
-  }
-  
   &:not(:first-child) {
     margin-left: 20px;
   }
+  ${({ hasLoading }) => hasLoading && css`
+    & > div {
+      display: none;
+    }
+    &:hover > div {
+      display: flex;
+      align-self: center;
+      margin: auto;
+    }
+  `};
 `;

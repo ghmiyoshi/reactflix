@@ -2,11 +2,11 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Front End",
+      "titulo": "Psicologia",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Meus Vídeos",
+        "url": "https://www.youtube.com/watch?v=31if5Hf79xA"
       }
     },
     {
@@ -46,44 +46,50 @@
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "SEO com React",
-      "url": "https://www.youtube.com/watch?v=IrOOeQdxRao&feature=emb_title"
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=31if5Hf79xA"
     },
     {
       "id": 2,
       "categoriaId": 1,
       "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+      "url": "https://www.youtube.com/watch?v=IrOOeQdxRao&feature=emb_title"
     },
     {
       "id": 3,
       "categoriaId": 1,
       "titulo": "Componentização com VanillaJS #AluraMais",
-      "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+      "url": "https://www.youtube.com/watch?v=Uhssc08rIqg"
     },
     {
       "id": 4,
       "categoriaId": 1,
       "titulo": "Pare de chutar e aprenda a display: inline #01",
-      "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+      "url": "https://www.youtube.com/watch?v=Hhp1mr6SOaY"
     },
     {
       "id": 5,
       "categoriaId": 1,
       "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-      "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+      "url": "https://www.youtube.com/watch?v=ESHZlHAMLfg"
     },
     {
       "id": 6,
       "categoriaId": 1,
       "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+      "url": "https://www.youtube.com/watch?v=MwN4grGQCO4"
     },
     {
       "id": 7,
       "categoriaId": 1,
       "titulo": "Novidades do Angular v9",
-      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+      "url": "https://www.youtube.com/watch?v=mYPB08zUzyY"
+    },
+    {
+      "id": 30,
+      "categoriaId": 1,
+      "titulo": "Novidades do Angular v9",
+      "url": "https://www.youtube.com/watch?v=wMF62f5hV9E"
     },
     {
       "id": 8,
@@ -201,30 +207,6 @@
       "titulo": "Vídeo padrão",
       "url": "teste",
       "id": 27
-    },
-    {
-      "titulo": "Vídeo padrão",
-      "url": "https://www.youtube.com/watch?v=lMwhm1LD76o",
-      "categoriaId": 1,
-      "id": 28
-    },
-    {
-      "titulo": "Vídeo padrão",
-      "url": "https://www.youtube.com/watch?v=lMwhm1LD76o",
-      "categoriaId": 2,
-      "id": 29
-    },
-    {
-      "titulo": "",
-      "url": "https://www.youtube.com/watch?v=WFp4rjmyRtI",
-      "categoriaId": 5,
-      "id": 30
-    },
-    {
-      "titulo": "",
-      "url": "https://www.youtube.com/watch?v=WFp4rjmyRtI",
-      "categoriaId": 5,
-      "id": 31
     }
   ]
 }

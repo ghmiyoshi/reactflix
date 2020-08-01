@@ -83,7 +83,6 @@ function Cadastrocategoria() {
         ))}
       </ul>
 
-      <Link to="/">Ir para Home</Link>
     </PageDefault>
   )
 }

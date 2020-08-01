@@ -14,9 +14,13 @@ function Menu() {
                 <img className="Logo" src={Logo} alt="kaflix"/>
             </Link>
 
+            {/* <Button as={Link} className="ButtonLink" to="/cadastro/categoria">
+                Nova Categoria
+            </Button>
+
             <Button as={Link} className="ButtonLink" to="/cadastro/video">
                 Novo Vídeo
-            </Button>
+            </Button> */}
         </nav>
     );
 }
