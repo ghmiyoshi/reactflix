@@ -66,6 +66,7 @@ ContentAreaContainer.Title = styled.h2`
 `;
 
 export const BannerMainContainer = styled.section`
+margin-bottom: 20px;
   height: 80vh;
   position: relative;
   color: #fff;
